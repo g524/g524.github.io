@@ -1,0 +1,52 @@
+body {
+    background-color: #ccc;
+}
+
+.main-column {
+    width: 50%;
+    min-width: 320px;
+    background-color: #FFD700;
+    margin-top: 0px;
+    margin-left:auto;
+    margin-right:auto;
+    height: 100px;
+}
+
+h1 {
+    padding-top: 30px;
+    color: #fff;
+}
+
+#menu ul{ 
+    margin: 0; 
+    padding: 0; 
+    list-style: none; 
+}
+#menu li{ 
+    display: inline;
+    width: 100%;
+    padding: 0; 
+    margin: 0; 
+    height: 30px;
+}
+#menu li a{
+    display: block; 
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #fff;
+    width: 100%; 
+    margin: 0px;
+    text-align: left;
+}
+
+a:hover {
+    height: 50px;
+}
+
+.twitter{
+  background-color: #FF8C00;
+}
+
+.instagram{
+  background-color: #4682B4;
+}
